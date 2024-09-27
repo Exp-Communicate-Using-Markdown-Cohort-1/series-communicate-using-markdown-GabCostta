@@ -12,3 +12,6 @@
 $ git inicialização
 Repositório Git vazio inicializado em /Users/skills/Projects/recipe-repository/.git/
 ```
+- [X] Turn on GitHub Pages
+- [X] Outline my portfolio
+- [ ] Introduce myself to the world
